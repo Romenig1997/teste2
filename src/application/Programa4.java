@@ -18,6 +18,7 @@ public class Programa4 {
 		empregado.salarioBruto = sc.nextDouble();
 		System.out.printf("Tax:");
 		empregado.imposto = sc.nextDouble();
+		System.out.println("testando pegar o codigo do github e atualizar e dps salva-lo com um novo commit");
 		
 		System.out.println("Employee: " + empregado.toString());
 		System.out.println("Wich percentage  to increase salary? ");
